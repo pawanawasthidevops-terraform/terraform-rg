@@ -7,4 +7,8 @@ var-rg = {
         name = "rg131"
         location = "centralindia"
     }
+    rg3 = {
+        name = "rg141"
+        location = "centralindia"
+    }
 }
