@@ -24,7 +24,7 @@ jobs:
       - name: Azure login
         uses: azure/login@v2
         with: 
-         creds: $ {{ secrets.new_rg_secret}}
+         creds:  ${{  secrets.new_rg_secret  }}
 
       - name: Terraform Format Check
         run: terraform fmt
