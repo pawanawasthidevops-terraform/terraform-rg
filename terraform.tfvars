@@ -1,6 +1,6 @@
 var-rg = {
   rg1 = {
-    name     = "rg121"
+    name     = "rgdevopstest1"
     location = "centralindia"
   }
 }
